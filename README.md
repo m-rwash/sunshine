@@ -1,2 +1,2 @@
-# sunshine_app
-This is the sunshine application for Udacity Developing Android Apps Course 
+# Sunshine App
+This is the sunshine application for Udacity [Developing Android Apps:Android Fundamentals Course](https://www.udacity.com/course/developing-android-apps--ud853)
