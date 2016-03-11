@@ -4,6 +4,7 @@ This is the sunshine application for Udacity [Developing Android Apps: Android F
 ## Lesson 2: Connecting Sunshine to the cloud
 Replacing the dummy data with real weather data by fetching data over OWM (Open Weather MAP) API.
 
+##### Screenshot of what I have done so:
 ![Screenshot of what I have done so far](http://s10.postimg.org/a2jq7894p/Lesson_2_Screenshot.png "Screenshot of what I have done so ")
 
 Some issues you'll may face in this lesson:
