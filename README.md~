@@ -3,6 +3,9 @@ This is the sunshine application for Udacity [Developing Android Apps: Android F
 
 ## Lesson 2: Connecting Sunshine to the cloud
 Replacing the dummy data with real weather data by fetching data over OWM (Open Weather MAP) API.
+
+![Screenshot of what I have done so far](~/Pictures/Lesson 2 Screenshot.png)
+
 Some issues you'll may face in this lesson:
 * We can't perform network I/O on the main(UI) thread, you'll get error _android.os.NetworkOnMainThreadException_ . However it is possible to do epecially in earlier versions of Android, but it's a really danger idea so you'll have to override the default behavior, also prepare to the consequences e.g. the app'll come more unresponsive and extremly slow. 
 [For more](http://stackoverflow.com/questions/6343166/android-os-networkonmainthreadexception)
